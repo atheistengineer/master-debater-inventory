@@ -1,0 +1,8 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/77551483-64cf-47e7-b859-96ef97fc6eac/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/master-debater-inventory",
+    "appService.deploySubpath": "",
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ]
+}
