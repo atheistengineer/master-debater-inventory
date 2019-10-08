@@ -4,5 +4,6 @@
     "appService.deploySubpath": "",
     "appService.zipIgnorePattern": [
         ".vscode{,/**}"
-    ]
+    ],
+    "python.pythonPath": "d:\\CarlF\\Documents\\workspace\\master-debater\\master-debater-inventory\\.venv\\Scripts\\python.exe"
 }
